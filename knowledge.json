@@ -1,0 +1,6 @@
+[
+  {"id":"FDA-APAP-01","drug":"对乙酰氨基酚","title":"重复成分与复方制剂","text":"对乙酰氨基酚可存在于多种处方药和非处方药中。同时使用多个含该成分的产品可能造成意外过量；应核对每个产品的有效成分，并请药师确认。","source":"FDA · Acetaminophen","url":"https://www.fda.gov/drugs/safe-use-over-counter-pain-relievers-and-fever-reducers/acetaminophen","verified":"2026-10-22","type":"公开网页的中文演示摘要，非药典原文"},
+  {"id":"FDA-APAP-02","drug":"对乙酰氨基酚","title":"肝病与饮酒相关注意事项","text":"FDA 提醒，有肝病史或经常饮酒的人应向医疗专业人员咨询使用对乙酰氨基酚的安全性。阅读药品标签，并核对其他药物是否也含有相同成分。","source":"FDA · Don’t Overuse Acetaminophen","url":"https://www.fda.gov/consumers/consumer-updates/dont-overuse-acetaminophen","verified":"2026-10-22","type":"公开网页的中文演示摘要，非药典原文"},
+  {"id":"NHS-IBU-01","drug":"布洛芬 华法林","title":"布洛芬与抗凝药的相互作用提醒","text":"NHS 将华法林等抗凝药列为可能与布洛芬发生相互作用的药物。合并用药前，应向医生或药师说明正在使用的全部药物；本摘要不能用于判断个人是否可以合用。","source":"NHS · Ibuprofen for adults","url":"https://www.nhs.uk/medicines/ibuprofen-for-adults/","verified":"2026-10-22","type":"公开网页的中文演示摘要，非药典原文"},
+  {"id":"NHS-WAR-01","drug":"华法林 布洛芬","title":"华法林用药信息核对","text":"NHS 提醒，布洛芬、阿司匹林等非甾体抗炎药可能与华法林发生相互作用。就诊时应告知医生正在使用的其他药物、草药、维生素和补充剂。","source":"NHS · Warfarin","url":"https://www.nhs.uk/medicines/warfarin/","verified":"2026-10-22","type":"公开网页的中文演示摘要，非药典原文"}
+]
